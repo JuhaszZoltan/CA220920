@@ -1,0 +1,5 @@
+Columbia	300,21
+Challenger	62,17
+Discovery	363,25
+Atlantis	305,96
+Endeavour	295,63
